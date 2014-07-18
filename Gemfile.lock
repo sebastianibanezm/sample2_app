@@ -39,6 +39,7 @@ GEM
     diff-lcs (1.2.5)
     erubis (2.7.0)
     execjs (2.2.1)
+    gravatar_image_tag (1.2.0)
     hike (1.2.3)
     i18n (0.6.9)
     jbuilder (2.1.1)
@@ -137,6 +138,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
+  gravatar_image_tag
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.1.2)
